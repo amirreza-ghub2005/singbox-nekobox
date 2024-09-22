@@ -1,7 +1,7 @@
 {
     "subscribes": [
         {
-            "url": "URL",
+            "url": "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/subscribe/protocols/hysteria",
             "tag": "tag_1",
             "enabled": true,
             "emoji": 1,
